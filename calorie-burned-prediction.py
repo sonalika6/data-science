@@ -6,7 +6,6 @@ Spyder Editor
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns 
 from scipy.stats import pearsonr
 from pandas import read_csv
 from sklearn.linear_model import LinearRegression
