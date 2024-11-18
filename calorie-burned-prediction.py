@@ -19,8 +19,6 @@ print("last 10 entries:",last_x_rows)
 first_x_rows=df.head(10)
 print("first 10 entries:",first_x_rows)
 
-# Assuming the dataset is a CSV file named "swiggy.csv" in your Downloads folder
-
 #plot scatter plot
 # Create a scatter plot (assuming columns named 'Body_Temp' and 'Heart_Rates')
 colors = ['blue', 'green'] #color of the dots
